@@ -1,4 +1,4 @@
-package miro.task.interceptor;
+package miro.task.interceptor.jdk;
 
 import miro.task.model.User;
 
